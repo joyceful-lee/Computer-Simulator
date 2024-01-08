@@ -1,0 +1,2 @@
+0006 0407 // Store memory 7 to gpr0
+0007 F406 // Unconditional jump to 6
